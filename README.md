@@ -12,3 +12,6 @@ For Waybar config:
 
 For colour pallete:
 [Catppuccin](https://github.com/catppuccin)
+
+romkatz/powerlevel10k
+ohmyzsh/ohmyzsh
