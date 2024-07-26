@@ -9,5 +9,5 @@ Credits:
 For Waybar config:
 [1amSimp1e - Late Night](https://github.com/1amSimp1e/dots)
 
-For colour pallete:Saw
+For colour pallete:
 [Catppuccin](https://github.com/catppuccin)
