@@ -7,8 +7,7 @@ Dependencies
 Credits:
 
 For Waybar config:
-
 [1amSimp1e - Late Night](https://github.com/1amSimp1e/dots)
 
-For colour pallete:
+For colour pallete:Saw
 [Catppuccin](https://github.com/catppuccin)
