@@ -1,6 +1,7 @@
 Dependencies
 
-`pacman -S swaync hyprpaper hyprlock font-manager blueman nwg-look rofi fastfetch`
+`pacman -S swaync hyprpaper hyprlock font-manager blueman nwg-look rofi fastfetch nemo nemo-fileroller`
+
 `yay -S ttf-font-awesome visual-studio-code-bin`
 
 
