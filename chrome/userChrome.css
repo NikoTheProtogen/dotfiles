@@ -1,0 +1,4 @@
+#TabsToolbar-customization-target { visibility: collapse !important; } 
+#titlebar {display: none !important;}
+#main-window {-moz-appearance:none !important;}
+
