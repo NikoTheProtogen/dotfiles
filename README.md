@@ -17,6 +17,8 @@ or precompiled binary
 `yay -S ttf-font-awesome visual-studio-code-bin`
 
 
+
+
 Steam:
 
 Enable `multilib` repository
@@ -31,3 +33,4 @@ For colour pallete:
 
 romkatz/powerlevel10k
 ohmyzsh/ohmyzsh
+karlstav/cava
