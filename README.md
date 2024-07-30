@@ -14,7 +14,7 @@ or precompiled binary
 
 
 
-`yay -S ttf-font-awesome visual-studio-code-bin`
+`yay -S ttf-font-awesome visual-studio-code-bin hyprpicker hyprshot`
 
 
 
