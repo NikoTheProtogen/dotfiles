@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sleep 2
 directory=~/.config/hypr/wallpapers/
 monitor=`hyprctl monitors | grep Monitor | awk '{print $2}'`
 
