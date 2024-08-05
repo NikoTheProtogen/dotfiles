@@ -2,7 +2,7 @@
 
 `pacman -S swaync hyprpaper hyprlock font-manager blueman nwg-look rofi fastfetch nemo nemo-fileroller nvidia-prime rhythmbox nvidia-utils lib32-nvidia-utils playerctl`
 
-`yay -S ttf-font-awesome visual-studio-code-bin hyprpicker hyprshot`
+`yay -S ttf-font-awesome visual-studio-code-bin hyprpicker hyprshot kdeconnect sshfs`
 
 ## Yay install
 
