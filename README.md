@@ -46,7 +46,8 @@ Enable `multilib` repository
 | `Win + ALT + Right`   | Next Song (playerctl -p rhythmbox)       |
 
 
-
+# Other configuration
+KDEConnect devices are located in `/run/user/1000/{device_id}/storage/emulated/0`
 
 
 # Credits/Sources:
