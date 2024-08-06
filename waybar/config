@@ -6,7 +6,7 @@
     "margin-bottom": 0,
     "margin-right": 10,
     "spacing": 5, // Gaps between modules (4px)
-    "modules-left": ["custom/launcher", "cpu", "memory", "hyprland/workspaces"],
+    "modules-left": ["custom/launcher", "cpu", "memory", "hyprland/workspaces", "custom/media"],
     "modules-center": ["hyprland/window"],
     "modules-right": ["tray", "custom/notification", "backlight", "pulseaudio", "network", "battery", "clock", "custom/power-menu"],
     "hyprland/workspaces": {
@@ -141,6 +141,12 @@
       "return-type": "json",
       "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/a319796a4173829988d68c4e3a5f90c1b6832667ea7aaa201757a1c887ec667a"
     },
+    //
+    //"custom/media": {
+    //  "format": "{}",
+    //  "interval": 1,
+    //  "exec": "bash $HOME/.config/waybar/scripts/get-media.sh"
+    //},
 
     "custom/spotify": {
     "exec": "python3 ~/.config/waybar/scripts/mediaplayer.py --player spotify",

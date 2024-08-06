@@ -91,6 +91,7 @@ window#waybar.hidden {
 #custom-weather.snowyIcyNight,
 #custom-weather.default,
 #custom-waybar-media,
+#custom-media,
 #custom-notification {
   padding: 0 10px;
   color: #e5e5e5;
@@ -255,14 +256,10 @@ label:focus {
 }
 
 #custom-media {
-  background-color: #66cc99;
-  color: #2a5c45;
-  min-width: 100px;
+  color: #5e5e5e;
+  font-size: 16px;
 }
 
-#custom-media.custom-spotify {
-  background-color: #66cc99;
-}
 
 #custom-media.custom-vlc {
   background-color: #ffa000;
